@@ -54,7 +54,7 @@ dependency-reduced-pom.xml
 *.vsix
 
 # Sandbox
-sandbox/
+*sandbox/
 
 README.html
 application.properties
